@@ -1,0 +1,4 @@
+FlightNo,Origin,Destination,Seats,Fare
+AI101,Raipur,Delhi,5,6000
+AI202,Raipur,Mumbai,2,5500
+AI303,Delhi,Mumbai,0,4800
